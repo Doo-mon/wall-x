@@ -40,8 +40,8 @@ KEY_MAPPINGS = {
             "observation.images.leftImg": "left_wrist_view",
             "observation.images.rightImg": "right_wrist_view",
         },
-        "state": "state",
-        "action": "actions",
+        "state": "observation.state",
+        "action": "action",
     },
 }
 
